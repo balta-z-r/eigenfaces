@@ -1,4 +1,15 @@
 # Eigenfaces
 
 ![](python_pca_eigenfaces.png)
-![](prediction_test.png)
+![](recreated_images.png)
+![](predictions/prediction_0.png)
+![](predictions/prediction_1.png)
+![](predictions/prediction_2.png)
+![](predictions/prediction_3.png)
+![](predictions/prediction_4.png)
+![](predictions/prediction_5.png)
+![](predictions/prediction_6.png)
+![](predictions/prediction_7.png)
+![](predictions/prediction_8.png)
+![](predictions/prediction_9.png)
+![](predictions/prediction_10.png)
